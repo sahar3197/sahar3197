@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Aritificial Intelligence
 - 💞️ I’m looking to collaborate on Exciting AI Projects
 - 📫 How to reach me: you can reach me at sahar.3197.badi@gmail.com
-- 😄 Pronouns: she
 - ⚡ Fun fact: I'm like a neural network - constantly learning and seeking exciting job opportunities in the AI field!
 
 <!---
